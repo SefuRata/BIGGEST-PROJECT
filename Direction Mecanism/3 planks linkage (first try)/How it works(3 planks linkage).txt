@@ -1,0 +1,11 @@
+EN:
+the movement its called linkage formed with 3 planks connected together. 
+First one is connected to the servo motor and it transforms rotation movement into linear movement using the second plank.
+The second plank is connected to the first and third plank.
+The last plank is connected to the DC motor and with the help of the second plank it transforms linear movement back into rotation movement. 
+
+RO:
+Mișcarea se numește legătură, formată din 3 plăci conectate între ele.
+Prima este conectată la servomotorul și transformă mișcarea de rotație în mișcare liniară folosind a doua plăcă.
+A doua plăcă este conectată la prima și a treia plăcă.
+Ultima plăcă este conectată la motorul de curent continuu și, cu ajutorul celei de-a doua plăci, transformă mișcarea liniară înapoi în mișcare de rotație.

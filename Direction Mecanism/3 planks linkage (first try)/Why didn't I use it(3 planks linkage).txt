@@ -1,0 +1,17 @@
+EN:
+When you want to make this kind of linkage you need to take in consideration multiple factors like:
+-Joint friction 
+-Plank lengths
+-Alignment
+-Torque
+Why I didn't use it?
+The problem was that the servo and DC motor weren't aligned. Meaning I needed it to make lots of variants and hope one of them will work. So I quitted this method
+
+RO:
+Când vrei să realizezi acest tip de legătură, trebuie să iei în considerare mai mulți factori, cum ar fi:
+-Fricțiunea articulației
+-Lungimea scândurilor
+-Alinierea
+-Cuplul
+De ce nu l-am folosit?
+Problema era că servomotorul și motorul de curent continuu nu erau aliniate. Asta înseamnă că aveam nevoie de el pentru a face multe variante și a spera că una dintre ele va funcționa. Așa că am renunțat la această metodă.
